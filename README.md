@@ -1,0 +1,2 @@
+# Computation-of-PI
+This project presents the problem of approximating the numerical value of the mathematical constant π, considering a number of formulas that have been used to compute π over the centuries. With the development of computer science in the 1950s, it was possible to calculate the expansion of π with precision first of thousands and then millions of decimal places. In this context, the algorithms with various degrees of convergence of the brothers Jonathan and Peter Borwein are presented and the case of calculation of 100 million decimal digits is analyzed.
